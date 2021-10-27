@@ -55,14 +55,6 @@ public class MyArrayList<T> {
     }
 
     public int size() {
-
-//        for (int i = 0; i < array.length; i++) {
-//            if (array[i] == null) {
-//                break;
-//            }
-//            size++;
-//        }
-
         return this.size;
     }
 
