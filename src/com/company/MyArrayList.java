@@ -84,7 +84,3 @@ public class MyArrayList<T> {
         System.out.println();
     }
 }
-
-// MyArrayList list = new MyArrayList(100);
-// int[] n = { 1, 2, 3, 4, 5 };
-// MyArrayList numbers = new MyArrayList(n);
