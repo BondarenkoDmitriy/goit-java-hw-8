@@ -50,15 +50,6 @@ public class MyStack<T> {
     }
 
     public int size() {
-//        int size = 0;
-//
-//        for (int i = 0; i < array.length; i++) {
-//            if (array[i] == null) {
-//                break;
-//            }
-//            size++;
-//        }
-
         return size;
     }
 
